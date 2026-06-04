@@ -2,7 +2,7 @@
 
 ## DESCRIPCION 
 
-##ESTRUCTURA DEL PROYECTO 
+## ESTRUCTURA DEL PROYECTO 
 
 LibreriaConsoleApp
     |---src/diegoraguay
