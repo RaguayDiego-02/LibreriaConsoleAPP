@@ -1,6 +1,7 @@
-# PROYECTO DE LIBRERIA CON CONEXION A BASE DE DATOS 
+    # PROYECTO DE LIBRERIA CON CONEXION A BASE DE DATOS 
 
 ## DESCRIPCION 
+Es una molitica, mvc y dao sigue cumpliendo el SOLID, responsabilidad unica 
 
 ## ESTRUCTURA DEL PROYECTO 
 
@@ -15,7 +16,8 @@ LibreriaConsoleApp
         |---view
             |---MenuPrincipal.java
             |---CategoriaView.java 
-
+        |---util 
+            |---Conexion
 ##AUTOR
 /Diego Raguay / Fundacion Kinal /
 
