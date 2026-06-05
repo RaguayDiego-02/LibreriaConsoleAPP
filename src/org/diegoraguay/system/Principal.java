@@ -6,6 +6,8 @@ public class Principal {
         System.out.println("Hola mundo  - soy diego ");
         System.out.println("Estoy en kinal - 2026067");
         
+        System.out.println("Hola mundo - Soy Joshua"); 
+        System.out.println("Estoy en kinal - 2026083"); 
     }
     
 }
