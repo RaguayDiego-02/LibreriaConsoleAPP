@@ -5,7 +5,13 @@ public class Principal {
     public static void main(String[] args) {
         System.out.println("Hola mundo, soy Kenneth"); 
         System.out.println("Estoy en kinal - 2023259");
+        System.out.println("Hola mundo - soy levi"); 
+        System.out.println("Estoy en kinal - 2026039");       
+        System.out.println("Hola mundo  - soy diego ");
+        System.out.println("Estoy en kinal - 2026067");
         
+        System.out.println("Hola mundo - Soy Joshua"); 
+        System.out.println("Estoy en kinal - 2026083"); 
     }
     
 }
